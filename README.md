@@ -7,5 +7,9 @@ Genrated :
 ![image](https://github.com/prajeeta15/ANOVA/assets/96904203/2eecb7c5-2756-49fb-9ef8-65f2c6a1e3ea)
 ![image](https://github.com/prajeeta15/ANOVA/assets/96904203/8b496581-b504-4770-b80a-689535e329df)
 
+json file output: 
+![image](https://github.com/prajeeta15/ANOVA/assets/96904203/10fc95d0-e926-4e73-922d-a4012e22803f)
+
+
 
 
